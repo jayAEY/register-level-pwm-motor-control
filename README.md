@@ -1,4 +1,4 @@
-# ⚙️ Arduino DC Motor PWM Controller
+# ⚙️ Register Level PWM Motor Controller
 
 [![Tinkercad Design](https://img.shields.io/badge/Tinkercad-View%20Design-brightgreen?style=for-the-badge&logo=tinkercad)](https://www.tinkercad.com/things/hM7xuqlaAPW-arduino-dc-motor-controller?sharecode=fTR0VJ1MF7x52sB05V9uynOJFpLAZXVYweU7w-ntLRI)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
